@@ -7,7 +7,7 @@ Stable tag: 0.1
 
 Make files in the WordPress media library private. These are only accessible to logged in users.
 
-REQUIRES: HM Core.
+REQUIRES: [HM Rewrite](https://github.com/humanmade/hm-rewrite)
 
 == Description ==
 
